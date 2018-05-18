@@ -24,7 +24,7 @@ module.exports = {
      * @type {String}
      */
     GLOBAL_CONF_URL: {
-        production: 'https://bos.nj.bpc.baidu.com/mms-res/lavas-scaffold/config_2.0.0.json',
+        production: 'https://github.com/zybbyzaa/lavas/blob/master/packages/lavas-cli/src/lib/scaffold/template.json',
         development: 'https://bos.nj.bpc.baidu.com/mms-res/lavas-scaffold/config_dev.json'
     },
 
